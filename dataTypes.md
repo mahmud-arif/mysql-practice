@@ -7,7 +7,7 @@
 5. TIME, (CURTIME(), gives current time)
 6. DATETIME(NOW(), gives current datetime) 
 
-# some data function
+# some date function
 
 1. DAY();
 2. DAYNAME();
